@@ -30,8 +30,10 @@ export default () => {
       <OpacityOverlay />
       <HeroContainer>
         <Content>
-          <Heading>Hi {displayName}</Heading>
           <Heading>
+            Hi {displayName}
+            <br />
+            <br />
             Test App to Get Data From
             <br />
             The Economist
